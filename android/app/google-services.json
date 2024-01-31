@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011758087266",
+    "project_id": "convoconnectflutter",
+    "storage_bucket": "convoconnectflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011758087266:android:733455681a8da6743ea53b",
+        "android_client_info": {
+          "package_name": "com.example.convo_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOyK4t5lShnwHKsjHk4cZTBKQKV4bmviI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
